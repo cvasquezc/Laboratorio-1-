@@ -1,5 +1,5 @@
-/*Laboratorio Uno	3.-Multiplicacion de matrices (no mas grandes que 5x5).
-Autor: Claudio Vásquez Campos*/
+/*Laboratorio Uno	4.- Numeros Primos
+Autor: Claudio VÃ¡squez Campos*/
 #include<stdio.h>
 
 int numPrimo(int a);
